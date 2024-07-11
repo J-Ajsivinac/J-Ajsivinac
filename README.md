@@ -67,8 +67,8 @@ As a passionate developer, I have had the opportunity to work with a variety of 
 <p align="left">
 <a href="https://github.com/J-Ajsivinac/-IPC1-S12023-Proyecto2"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=J-Ajsivinac&repo=-IPC1-S12023-Proyecto2&theme=react&bg_color=1f222e&title_color=006aff&hide_border=true&icon_color=F8D866&show_icons=true" alt="readme-typing-svg"></a>
 <a href="https://github.com/J-Ajsivinac/IPC2_Proyecto2"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=J-Ajsivinac&repo=IPC2_Proyecto2&theme=react&bg_color=1f222e&title_color=006aff&hide_border=true&icon_color=F8D866&show_icons=true" alt="readme-typing-svg"></a>
-<a href="https://github.com/J-Ajsivinac/IPC2_Proyecto2"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=J-Ajsivinac&repo=EDD_VD2S2023_PY&theme=react&bg_color=1f222e&title_color=006aff&hide_border=true&icon_color=F8D866&show_icons=true" alt="readme-typing-svg"></a>
-<a href="[https://github.com/DenverCoder1/readme-typing-svg](https://github.com/J-Ajsivinac/OLC1_Proyecto2_202200135)"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=J-Ajsivinac&repo=OLC1_Proyecto2_202200135&theme=react&bg_color=1f222e&title_color=006aff&hide_border=true&icon_color=F8D866&show_icons=true" alt="readme-typing-svg"></a>
+<a href="https://github.com/J-Ajsivinac/EDD_VD2S2023_PY"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=J-Ajsivinac&repo=EDD_VD2S2023_PY&theme=react&bg_color=1f222e&title_color=006aff&hide_border=true&icon_color=F8D866&show_icons=true" alt="readme-typing-svg"></a>
+<a href="https://github.com/J-Ajsivinac/OLC1_Proyecto2_202200135"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=J-Ajsivinac&repo=OLC1_Proyecto2_202200135&theme=react&bg_color=1f222e&title_color=006aff&hide_border=true&icon_color=F8D866&show_icons=true" alt="readme-typing-svg"></a>
 </p>
 
 
