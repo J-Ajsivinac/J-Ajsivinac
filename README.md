@@ -5,7 +5,7 @@ Hi, I'm Joab
 <p align="center">Studying Systems Engineering</p>
 <p align="center">
   <a href="https://ajsivinac.me">
-    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-006aff?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-006aff?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
 
