@@ -4,8 +4,8 @@ Hi, I'm Joab
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"/></h1>
 <p align="center">Studying Systems Engineering</p>
 <p align="center">
-  <a href="https://ajsivinac.me">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-006aff?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <a href="https://ajsivinac.me" target="_blank">
+    <img src="https://img.shields.io/badge/VISITA_MI_PORTFOLIO-006AFF?style=for-the-badge&logo=opsgenie&logoColor=white" alt="Mi Portfolio" style="border-radius: 50px;"/>
   </a>
 </p>
 
